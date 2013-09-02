@@ -246,7 +246,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/formation-maven.iml" filepath="$PROJECT_DIR$/formation-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mywar/mywar.iml" filepath="$PROJECT_DIR$/mywar/mywar.iml" />
       <module fileurl="file://$PROJECT_DIR$/mywar2/mywar2.iml" filepath="$PROJECT_DIR$/mywar2/mywar2.iml" />
     </modules>

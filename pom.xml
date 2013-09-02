@@ -10,7 +10,7 @@
         <module>mywar2</module>
     </modules>
     <packaging>pom</packaging>
-    <name>formation-maven</name>
+    <name>maven-demo</name>
     <distributionManagement>
         <site>
             <id>${project.artifactId}--site</id>
