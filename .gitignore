@@ -1,0 +1,34 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Folders #
+.metadata/**
+**/.metadata/**
+**/target/**
+**/target/surefire/**
+*/target/*
+*/target/**
+**/**/target/**
+target
+target
+tvguide-parent/tvguide-reminder/target
+target
+target
+target
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iws
+ 
+
+
+
