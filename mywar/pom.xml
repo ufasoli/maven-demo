@@ -28,6 +28,10 @@
     </dependencies>
 
     <build>
+
+            <finalName>${artifactId}-${version}-${buildNumber}</finalName>
+
+
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -47,6 +51,9 @@
                 <version>2.3</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
+                    <filteringDeploymentDescriptors>true</filteringDeploymentDescriptors>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+
                 </configuration>
             </plugin>
             <plugin>
@@ -75,6 +82,8 @@
                 </executions>
             </plugin>
         </plugins>
+
+
     </build>
 
 </project>
